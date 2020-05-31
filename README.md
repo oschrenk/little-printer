@@ -1,5 +1,7 @@
 # Little Printer
 
+<img src="https://i.imgur.com/UhyS1K8.png" align="center" height="25%" width="25%" /> <img src="https://i.imgur.com/Tblhh9u.png" align="center" height="25%" width="25%" />
+
 Start server
 ```
 sbt run
