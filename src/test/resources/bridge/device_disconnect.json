@@ -1,0 +1,9 @@
+{
+  "bridge_address": "000d6f0002ff7a91",
+  "type": "BridgeEvent",
+  "timestamp": 1346504219.3027338,
+  "json_payload": {
+    "device_address": "000d6f000273ce0b",
+    "name": "device_disconnect"
+  }
+}

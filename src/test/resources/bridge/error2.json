@@ -1,0 +1,52 @@
+{
+  "bridge_address": "000d6f0003b4ba8f",
+  "records": [
+    {
+      "created": 1507753529.261768,
+      "levelname": "CRITICAL",
+      "levelno": 50,
+      "message": "Exception decoding JSON: - <type 'exceptions.ValueError'> : No JSON object could be decoded",
+      "name": "cloud.socketclient",
+      "process": 463,
+      "processName": "MainProcess"
+    },
+    {
+      "created": 1507753529.298556,
+      "levelname": "CRITICAL",
+      "levelno": 50,
+      "message": "  in file /usr/lib/python2.7/json/decoder.py, line 384, function raw_decode - None",
+      "name": "cloud.socketclient",
+      "process": 463,
+      "processName": "MainProcess"
+    },
+    {
+      "created": 1507753529.314656,
+      "levelname": "CRITICAL",
+      "levelno": 50,
+      "message": "  in file /usr/lib/python2.7/json/decoder.py, line 366, function decode - None",
+      "name": "cloud.socketclient",
+      "process": 463,
+      "processName": "MainProcess"
+    },
+    {
+      "created": 1507753529.317783,
+      "levelname": "CRITICAL",
+      "levelno": 50,
+      "message": "  in file /usr/lib/python2.7/json/__init__.py, line 326, function loads - None",
+      "name": "cloud.socketclient",
+      "process": 463,
+      "processName": "MainProcess"
+    },
+    {
+      "created": 1507753529.320763,
+      "levelname": "CRITICAL",
+      "levelno": 50,
+      "message": "  in file PKGTMP.35950/usr/local/bergcloud-bridge/berg_cloud_socket_api.py, line 437, function received_message - None",
+      "name": "cloud.socketclient",
+      "process": 463,
+      "processName": "MainProcess"
+    }
+  ],
+  "timestamp": 1507753529.479169,
+  "type": "BridgeLog"
+}

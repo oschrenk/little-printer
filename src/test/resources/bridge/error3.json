@@ -1,0 +1,43 @@
+{
+  "bridge_address": "000d6f0003b4ba8f",
+  "records": [
+    {
+      "created": 1507753534.626314,
+      "levelname": "CRITICAL",
+      "levelno": 50,
+      "message": "Exception decoding JSON: - <type 'exceptions.ValueError'> : No JSON object could be decoded",
+      "name": "cloud.socketclient",
+      "process": 463,
+      "processName": "MainProcess"
+    },
+    {
+      "created": 1507753534.641065,
+      "levelname": "CRITICAL",
+      "levelno": 50,
+      "message": "  in file /usr/lib/python2.7/json/decoder.py, line 384, function raw_decode - None",
+      "name": "cloud.socketclient",
+      "process": 463,
+      "processName": "MainProcess"
+    },
+    {
+      "created": 1507753534.644248,
+      "levelname": "CRITICAL",
+      "levelno": 50,
+      "message": "  in file /usr/lib/python2.7/json/decoder.py, line 366, function decode - None",
+      "name": "cloud.socketclient",
+      "process": 463,
+      "processName": "MainProcess"
+    },
+    {
+      "created": 1507753534.6472473,
+      "levelname": "CRITICAL",
+      "levelno": 50,
+      "message": "  in file /usr/lib/python2.7/json/__init__.py, line 326, function loads - None",
+      "name": "cloud.socketclient",
+      "process": 463,
+      "processName": "MainProcess"
+    }
+  ],
+  "timestamp": 1507753534.655936,
+  "type": "BridgeLog"
+}

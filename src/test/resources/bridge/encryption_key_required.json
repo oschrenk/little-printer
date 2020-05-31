@@ -1,0 +1,9 @@
+{
+  "bridge_address": "000d6f0001b3719d",
+  "type": "BridgeEvent",
+  "timestamp": 1419107228.911871,
+  "json_payload": {
+    "device_address": "000d6f000273ce0b",
+    "name": "encryption_key_required"
+  }
+}

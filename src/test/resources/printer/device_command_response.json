@@ -1,0 +1,14 @@
+{
+  "device_address": "000d6f0002fcbe52",
+  "timestamp": 1589126599.019919,
+  "transfer_time": 4.8,
+  "bridge_address": "000d6f0003b4ba8f",
+  "return_code": 0,
+  "rssi_stats": [
+    -67,
+    -70,
+    -66
+  ],
+  "type": "DeviceCommandResponse",
+  "command_id": 8799
+}

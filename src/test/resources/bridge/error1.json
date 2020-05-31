@@ -1,0 +1,169 @@
+{
+  "bridge_address": "000d6f0003b4ba8f",
+  "timestamp": 1507753529.239347,
+  "type": "BridgeLog",
+  "records": [
+    {
+      "created": 1507753434.838499,
+      "levelname": "ERROR",
+      "levelno": 40,
+      "message": "Socket connection refused",
+      "name": "cloud.socket",
+      "process": 463,
+      "processName": "MainProcess"
+    },
+    {
+      "created": 1507753440.164538,
+      "levelname": "ERROR",
+      "levelno": 40,
+      "message": "Socket connection refused",
+      "name": "cloud.socket",
+      "process": 463,
+      "processName": "MainProcess"
+    },
+    {
+      "created": 1507753445.444375,
+      "levelname": "ERROR",
+      "levelno": 40,
+      "message": "Socket connection refused",
+      "name": "cloud.socket",
+      "process": 463,
+      "processName": "MainProcess"
+    },
+    {
+      "created": 1507753450.599633,
+      "levelname": "ERROR",
+      "levelno": 40,
+      "message": "Socket connection refused",
+      "name": "cloud.socket",
+      "process": 463,
+      "processName": "MainProcess"
+    },
+    {
+      "created": 1507753455.7552023,
+      "levelname": "ERROR",
+      "levelno": 40,
+      "message": "Socket connection refused",
+      "name": "cloud.socket",
+      "process": 463,
+      "processName": "MainProcess"
+    },
+    {
+      "created": 1507753460.95024,
+      "levelname": "ERROR",
+      "levelno": 40,
+      "message": "Socket connection refused",
+      "name": "cloud.socket",
+      "process": 463,
+      "processName": "MainProcess"
+    },
+    {
+      "created": 1507753466.106817,
+      "levelname": "ERROR",
+      "levelno": 40,
+      "message": "Socket connection refused",
+      "name": "cloud.socket",
+      "process": 463,
+      "processName": "MainProcess"
+    },
+    {
+      "created": 1507753471.272282,
+      "levelname": "ERROR",
+      "levelno": 40,
+      "message": "Socket connection refused",
+      "name": "cloud.socket",
+      "process": 463,
+      "processName": "MainProcess"
+    },
+    {
+      "created": 1507753476.625523,
+      "levelname": "ERROR",
+      "levelno": 40,
+      "message": "Socket connection refused",
+      "name": "cloud.socket",
+      "process": 463,
+      "processName": "MainProcess"
+    },
+    {
+      "created": 1507753481.7852862,
+      "levelname": "ERROR",
+      "levelno": 40,
+      "message": "Socket connection refused",
+      "name": "cloud.socket",
+      "process": 463,
+      "processName": "MainProcess"
+    },
+    {
+      "created": 1507753487.066671,
+      "levelname": "ERROR",
+      "levelno": 40,
+      "message": "Socket connection refused",
+      "name": "cloud.socket",
+      "process": 463,
+      "processName": "MainProcess"
+    },
+    {
+      "created": 1507753492.22486,
+      "levelname": "ERROR",
+      "levelno": 40,
+      "message": "Socket connection refused",
+      "name": "cloud.socket",
+      "process": 463,
+      "processName": "MainProcess"
+    },
+    {
+      "created": 1507753497.517046,
+      "levelname": "ERROR",
+      "levelno": 40,
+      "message": "Socket connection refused",
+      "name": "cloud.socket",
+      "process": 463,
+      "processName": "MainProcess"
+    },
+    {
+      "created": 1507753502.839797,
+      "levelname": "ERROR",
+      "levelno": 40,
+      "message": "Socket connection refused",
+      "name": "cloud.socket",
+      "process": 463,
+      "processName": "MainProcess"
+    },
+    {
+      "created": 1507753507.996436,
+      "levelname": "ERROR",
+      "levelno": 40,
+      "message": "Socket connection refused",
+      "name": "cloud.socket",
+      "process": 463,
+      "processName": "MainProcess"
+    },
+    {
+      "created": 1507753513.1562562,
+      "levelname": "ERROR",
+      "levelno": 40,
+      "message": "Socket connection refused",
+      "name": "cloud.socket",
+      "process": 463,
+      "processName": "MainProcess"
+    },
+    {
+      "created": 1507753518.3186312,
+      "levelname": "ERROR",
+      "levelno": 40,
+      "message": "Socket connection refused",
+      "name": "cloud.socket",
+      "process": 463,
+      "processName": "MainProcess"
+    },
+    {
+      "created": 1507753523.627125,
+      "levelname": "ERROR",
+      "levelno": 40,
+      "message": "Socket connection refused",
+      "name": "cloud.socket",
+      "process": 463,
+      "processName": "MainProcess"
+    }
+  ]
+}
