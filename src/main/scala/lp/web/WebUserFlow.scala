@@ -16,6 +16,9 @@ import play.api.libs.json.{JsError, JsSuccess, Json}
 import scala.concurrent.duration._
 
 object WebUserFlow {
+
+  private val logger = com.typesafe.scalalogging.Logger(this.getClass)
+
   implicit private val timeout: Timeout = 3.seconds
   private val DefaultBufferSize = 10
 
@@ -37,7 +40,8 @@ object WebUserFlow {
               case JsSuccess(value, _) =>
                 value
               case JsError(errors) =>
-                // TODO what do on errors?
+                logger.warn(s"Claim validation failed $errors")
+                // TODO inform user of failure
             }
           // ignore other messages but drain content to avoid stream being clogged
           case bm: BinaryMessage => bm.dataStream.runWith(Sink.ignore)
